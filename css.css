@@ -3,14 +3,12 @@ body {
 	padding: 0;
 	background-image: url(tlo.jpg);
 	background-size: 100% 100%;
-	
 	background-repeat: no-repeat;
     cursor: url("https://s5.gifyu.com/images/Bez-nazwy7c0d7fca190ea037.png"), auto;
 	}
 a#a {
 	color: silver;
 	font-size: 75;
-	
 	}
 div#a {
 	background-color: grey;
