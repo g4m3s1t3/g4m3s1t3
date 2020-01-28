@@ -2,5 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
     cursor: url("https://s5.gifyu.com/images/Bez-nazwy7c0d7fca190ea037.png"), auto;
-	background-color: url(tlo.jpg);
+	background-image: url(tlo.jpg);
+	background-size: 100% 100%;
+	color: white;
 	}
